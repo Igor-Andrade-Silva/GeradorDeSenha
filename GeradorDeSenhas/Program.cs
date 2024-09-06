@@ -24,11 +24,15 @@ namespace GeradorDeSenhas
             switch (tipoDeSenha)
             {
                 case 1:
-                    SenhaLetras senhaGerada = new SenhaLetras();
+                    SenhaLetras senhaCharGerada = new SenhaLetras();
                     break;
 
                     case 2:
-                    SenhaLetraNum senhaNumGerada = new SenhaLetraNum();
+                    SenhaLetraNum senhaCharNumGerada = new SenhaLetraNum();
+                    break;
+
+                case 3:
+                    SenhaLetraNumEsp senhaCharNumEspGerada = new SenhaLetraNumEsp();
                     break;
             }
 

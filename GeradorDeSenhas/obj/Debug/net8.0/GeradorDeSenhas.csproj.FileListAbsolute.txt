@@ -12,3 +12,4 @@ C:\Users\igora\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\ref
 C:\Users\igora\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.pdb
 C:\Users\igora\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.genruntimeconfig.cache
 C:\Users\igora\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\ref\GeradorDeSenhas.dll
+C:\Users\igora\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.sourcelink.json
