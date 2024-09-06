@@ -31,7 +31,7 @@ namespace GeradorDeSenhas
                     SenhaLetraNum senhaCharNumGerada = new SenhaLetraNum();
                     break;
 
-                case 3:
+                    case 3:
                     SenhaLetraNumEsp senhaCharNumEspGerada = new SenhaLetraNumEsp();
                     break;
             }
